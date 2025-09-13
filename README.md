@@ -14,9 +14,12 @@ It demonstrates simple use of:
    bash
    python cal intern.py
 
-# Dataset for Testing  
+# Dataset for Testing
+
 I’ll prepare a **CSV dataset** with sample values for `A`, `B`, `operator`, and `expected_result`.
+
 csv
+
 A,B,operator,expected_result
 
 10,5,+,15  
